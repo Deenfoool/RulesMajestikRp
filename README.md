@@ -2,7 +2,7 @@
 # 📚 Нормативно-правовая база SANG
 <div align="center">
 
-![United States Army]([[https://i.postimg.cc/your-image-id/army-seal.png](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekIVoPPe3jj1KIi7OPaltS4brJxkJaxYSORjOLM-YC4GPsNz4JFS89lE-jJqNP3HWjYio9nTOck0QzaJnctpEQbOwYx8hXkenWMw5h32C82EdpBeJxyexi7nPZZNAGbq46ybAnXQ?key=CSyKdXAwcJKkhq8ANI1qFpU5)](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekIVoPPe3jj1KIi7OPaltS4brJxkJaxYSORjOLM-YC4GPsNz4JFS89lE-jJqNP3HWjYio9nTOck0QzaJnctpEQbOwYx8hXkenWMw5h32C82EdpBeJxyexi7nPZZNAGbq46ybAnXQ?key=CSyKdXAwcJKkhq8ANI1qFpU5))
+![Эмблема United States Army](https://s1048sas.storage.yandex.net/rdisk/c291ec0b821f700fe822904b0c1bc981881d7964b7fa95abe8555a352a20ba59/699d84e6/oPWqu1eGygrqJdUnl7XA6QrHUzs2S-AZKgHLYWSYi0_45sbXed3YueZ3NJJs8PfO6YI0nc_wsEA_ljrAT6bF9g==?uid=1658629563&filename=unnamed.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1658629563&fsize=57195&hid=2354ef6c3649fc6e87570b909b3811d3&media_type=image&tknv=v3&etag=bae7a10f6cad598c14bc0962ceb08c3f&ts=64b8fcd1e8580&s=533df4c662836237c36d8c18f5bc33a98a4b1dcd9f4ddd1f084cdb400ce88aeb&pb=U2FsdGVkX18ITnRKU3qFBQjqQs2hs37FhzO4XtiNSwEIvOzz027jLq73bLqO9ftXAR-BFtLG8KgMVNwOqKSiOMjB3N1gruCbte4dQt-96KI)
 
 **San Andreas National Guard**
 
