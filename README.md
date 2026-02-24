@@ -2,7 +2,7 @@
 # 📚 Нормативно-правовая база SANG
 <div align="center">
 
-![United States Army]([https://i.postimg.cc/your-image-id/army-seal.png](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekIVoPPe3jj1KIi7OPaltS4brJxkJaxYSORjOLM-YC4GPsNz4JFS89lE-jJqNP3HWjYio9nTOck0QzaJnctpEQbOwYx8hXkenWMw5h32C82EdpBeJxyexi7nPZZNAGbq46ybAnXQ?key=CSyKdXAwcJKkhq8ANI1qFpU5))
+![United States Army]([[https://i.postimg.cc/your-image-id/army-seal.png](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekIVoPPe3jj1KIi7OPaltS4brJxkJaxYSORjOLM-YC4GPsNz4JFS89lE-jJqNP3HWjYio9nTOck0QzaJnctpEQbOwYx8hXkenWMw5h32C82EdpBeJxyexi7nPZZNAGbq46ybAnXQ?key=CSyKdXAwcJKkhq8ANI1qFpU5)](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekIVoPPe3jj1KIi7OPaltS4brJxkJaxYSORjOLM-YC4GPsNz4JFS89lE-jJqNP3HWjYio9nTOck0QzaJnctpEQbOwYx8hXkenWMw5h32C82EdpBeJxyexi7nPZZNAGbq46ybAnXQ?key=CSyKdXAwcJKkhq8ANI1qFpU5))
 
 **San Andreas National Guard**
 
